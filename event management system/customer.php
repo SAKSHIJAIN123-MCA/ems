@@ -1,6 +1,6 @@
 <?php
 // Database connection parameters
-$servername = "localhost"; // Change this if your MySQL server is hosted elsewhere
+$servername = "localhost:3307"; // Change this if your MySQL server is hosted elsewhere
 $username = "root"; // Your MySQL username
 $password = ""; // Your MySQL password
 $database = "admin"; // Your database name

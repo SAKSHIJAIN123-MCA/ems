@@ -2,7 +2,7 @@
 session_start();
 
 // Database connection parameters
-$servername = "localhost"; // Replace 'localhost' with your server name if necessary
+$servername = "localhost:3307"; // Replace 'localhost' with your server name if necessary
 $username = "root"; // Replace 'username' with your MySQL username
 $password = ""; // Replace 'password' with your MySQL password
 $dbname = "admin"; // Replace 'database_name' with your MySQL database name
