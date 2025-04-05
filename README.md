@@ -51,7 +51,8 @@ Event Planner is a web-based application designed to help users create, manage, 
 
  ## 📸 EMS Screenshots
  
-![Home EMS](https://github.com/SAKSHIJAIN123-MCA/event%20management%20system/blob/main/admin/image/homeems.jpg?raw=true)
+### 🏠 Home EMS Page 2
+![Home EMS](https://github.com/SAKSHIJAIN123-MCA/ems/blob/main/event%20management%20system/admin/image/homeems.jpg?raw=true)
 
 ### 🏠 Home EMS Page 2
 ![Home EMS 2](https://github.com/SAKSHIJAIN123-MCA/event%20management%20system/blob/main/admin/image/homeems2.jpg?raw=true)
