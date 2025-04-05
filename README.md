@@ -51,20 +51,19 @@ Event Planner is a web-based application designed to help users create, manage, 
 
  ## 📸 EMS Screenshots
  
-### 🏠 Home EMS Page 1
-![Home EMS](https://github.com/SAKSHIJAIN123-MCA/ems/event%20management%20system/blob/main/admin/image/homeems.jpg?raw=true)
+![Home EMS](https://github.com/SAKSHIJAIN123-MCA/event%20management%20system/blob/main/admin/image/homeems.jpg?raw=true)
 
 ### 🏠 Home EMS Page 2
-![Home EMS 2](https://github.com/SAKSHIJAIN123-MCA/ems/event%20management%20system/blob/main/admin/image/homeems2.jpg?raw=true)
+![Home EMS 2](https://github.com/SAKSHIJAIN123-MCA/event%20management%20system/blob/main/admin/image/homeems2.jpg?raw=true)
 
 ### 📅 Book Event Page
-![Book Event](https://github.com/SAKSHIJAIN123-MCA/ems/event%20management%20system/blob/main/admin/image/bookevent.jpg?raw=true)
+![Book Event](https://github.com/SAKSHIJAIN123-MCA/event%20management%20system/blob/main/admin/image/bookevent.jpg?raw=true)
 
 ### 🎉 Events Page 1
-![Events Page 1](https://github.com/SAKSHIJAIN123-MCA/ems/event%20management%20system/blob/main/admin/image/events.jpg?raw=true)
+![Events Page 1](https://github.com/SAKSHIJAIN123-MCA/event%20management%20system/blob/main/admin/image/events.jpg?raw=true)
 
 ### 🎉 Events Page 2
-![Events Page 2](https://github.com/SAKSHIJAIN123-MCA/ems/event%20management%20system/blob/main/admin/image/events2.jpg?raw=true)
+![Events Page 2](https://github.com/SAKSHIJAIN123-MCA/event%20management%20system/blob/main/admin/image/events2.jpg?raw=true)
 
 ## Contact
 For any questions or suggestions, please contact sakshijainmorena@gmail.com
