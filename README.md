@@ -57,7 +57,7 @@ Event Planner is a web-based application designed to help users create, manage, 
 ![Home EMS 2](https://github.com/SAKSHIJAIN123-MCA/event%20management%20system/blob/main/admin/image/homeems2.jpg?raw=true)
 
 ### 📅 Book Event Page
-![Book Event](https://github.com/SAKSHIJAIN123-MCA/event%20management%20system/blob/main/admin/image/bookevent.jpg?raw=true)
+![Book Event](admin/image/bookevent.jpg)
 
 ### 🎉 Events Page 1
 ![Events Page 1](https://github.com/SAKSHIJAIN123-MCA/event%20management%20system/blob/main/admin/image/events.jpg?raw=true)
